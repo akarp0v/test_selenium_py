@@ -3,6 +3,10 @@ Selenium Test project for http://selenium1py.pythonanywhere.com/
 Homework solution for lesson 4
 https://stepik.org/course/575/
 
+$ git clone https://github.com/akarp0v/test_selenium_py.git
+
+After downloading folder name MUST BE 'test_selenium_py'
+
 Execute command examples for Chrome browser (by default):
 
 $ pytest -v -s --tb=line --language=en test_product_page.py
