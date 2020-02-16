@@ -9,6 +9,8 @@ $ pytest -v -s --tb=line --language=en test_product_page.py
 
 $ pytest -v -s --tb=line --language=en test_main_page.py
 
+$ pytest -v --tb=line
+
 Execute command examples for Firefox browser:
 
 $ pytest -v -s --tb=line --browser_name=firefox --language=en test_product_page.py
