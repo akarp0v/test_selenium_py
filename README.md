@@ -5,7 +5,7 @@ https://stepik.org/course/575/
 
 $ git clone https://github.com/akarp0v/test_selenium_py.git
 
-After downloading folder name MUST BE 'test_selenium_py'
+---------- folder name MUST BE 'test_selenium_py' ----------
 
 Review command example:
 
