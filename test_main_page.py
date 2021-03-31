@@ -1,6 +1,4 @@
-from .pages.main_page import MainPage
-from .pages.login_page import LoginPage
-from .pages.cart_page import CartPage
+from pages import MainPage, LoginPage, CartPage
 import pytest
 
 
