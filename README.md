@@ -1,4 +1,6 @@
-### Python frontend test automation framework
+### Frontend test automation mini framework
+
+> #### Python | Pytest | Selenium
 
 Execute command examples for Chrome browser (by default):
 
