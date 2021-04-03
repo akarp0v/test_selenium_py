@@ -1,8 +1,8 @@
-## Frontend test automation mini framework
+# Frontend test automation mini framework
 
 > #### Python | Pytest | Selenium
 
-### Installation
+## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies
 
@@ -12,7 +12,7 @@ pip install requirements.txt
 
 ## Usage
 
-Run Chrome browser test
+Run Chrome browser tests
 
 ```
 pytest -v --tb=line
@@ -32,11 +32,11 @@ Run Firefox browser tests
 pytest -v -s --tb=line --browser_name=firefox --language=en
 ```
 
-### License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### Related links
+## Related links
 
 [Stepik course link](https://stepik.org/course/575/)
 
