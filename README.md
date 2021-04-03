@@ -1,20 +1,42 @@
-### Frontend test automation mini framework
+## Frontend test automation mini framework
 
 > #### Python | Pytest | Selenium
 
-Execute command examples for Chrome browser (by default):
+### Installation
 
-`pytest -v --tb=line`
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dependencies
 
-`pytest -v -s --tb=line --language=en`
+```
+pip install requirements.txt 
+```
 
-`pytest -v --tb=line --language=en -m need_review`
+## Usage
 
-Execute command examples for Firefox browser:
+Run Chrome browser test
 
-`pytest -v -s --tb=line --browser_name=firefox --language=en`
+```
+pytest -v --tb=line
+```
 
-> Click links below for details:
+```
+pytest -v -s --tb=line --language=en
+```
+
+```
+pytest -v --tb=line --language=en -m need_review
+```
+
+Run Firefox browser tests
+
+```
+pytest -v -s --tb=line --browser_name=firefox --language=en
+```
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+### Related links
 
 [Stepik course link](https://stepik.org/course/575/)
 
