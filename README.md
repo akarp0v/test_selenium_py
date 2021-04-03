@@ -32,12 +32,12 @@ Run Firefox browser tests
 pytest -v -s --tb=line --browser_name=firefox --language=en
 ```
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
 ## Related links
 
 [Stepik course link](https://stepik.org/course/575/)
 
 [Web app link](http://selenium1py.pythonanywhere.com/)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
