@@ -1,4 +1,4 @@
-# Frontend test automation mini framework
+## Frontend test automation mini framework
 
 > #### Python | Pytest | Selenium
 
