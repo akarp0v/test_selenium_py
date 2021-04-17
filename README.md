@@ -36,6 +36,8 @@ pytest -v -s --tb=line --browser_name=firefox --language=en
 
 [Stepik course link](https://stepik.org/course/575/)
 
+[Certificate link](https://stepik.org/cert/230000)
+
 [Web app link](http://selenium1py.pythonanywhere.com/)
 
 ## License
