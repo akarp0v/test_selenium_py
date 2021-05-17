@@ -1,5 +1,5 @@
 from app import ProductPage, LoginPage, CartPage, Const
-from essential_generators import DocumentGenerator
+from essential_generators import DocumentGenerator as Gen
 import pytest
 
 
@@ -10,7 +10,7 @@ class TestUserAddToBasketFromProductPage:
         link = f'{Const.MAIN_URL}{Const.LOGIN}'
         page = LoginPage(browser, link)
         page.open()
-        page.register_new_user(DocumentGenerator().email(), '111qQ22Ww')
+        page.register_new_user(Gen().email(), '111qQ22Ww')
         page.should_be_authorized_user()
 
     # Открываем страницу товара
