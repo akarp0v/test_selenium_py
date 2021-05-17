@@ -1,4 +1,4 @@
-from pages import MainPage, LoginPage, CartPage
+from app import MainPage, LoginPage, CartPage
 import pytest
 
 

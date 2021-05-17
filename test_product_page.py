@@ -1,4 +1,4 @@
-from pages import ProductPage, LoginPage, CartPage
+from app import ProductPage, LoginPage, CartPage
 from essential_generators import DocumentGenerator
 import pytest
 
